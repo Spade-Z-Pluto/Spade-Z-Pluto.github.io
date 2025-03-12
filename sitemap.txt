@@ -1,5 +1,5 @@
-https://spade-z-pluto.github.io/posts/6811.html
 https://spade-z-pluto.github.io/posts/3eeb.html
+https://spade-z-pluto.github.io/posts/6811.html
 https://spade-z-pluto.github.io/posts/39c1.html
 https://spade-z-pluto.github.io/404.html
 https://spade-z-pluto.github.io/tags/index.html
@@ -7,3 +7,5 @@ https://spade-z-pluto.github.io/about/index.html
 https://spade-z-pluto.github.io/categories/index.html
 https://spade-z-pluto.github.io/
 https://spade-z-pluto.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
+https://spade-z-pluto.github.io/categories/%E6%95%99%E7%A8%8B/
+https://spade-z-pluto.github.io/categories/MoonBit/

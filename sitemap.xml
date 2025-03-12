@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://spade-z-pluto.github.io/posts/6811.html</loc>
+    <loc>https://spade-z-pluto.github.io/posts/3eeb.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://spade-z-pluto.github.io/posts/3eeb.html</loc>
+    <loc>https://spade-z-pluto.github.io/posts/6811.html</loc>
     
     <lastmod>2025-03-12</lastmod>
     
@@ -77,6 +77,20 @@
   
   <url>
     <loc>https://spade-z-pluto.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://spade-z-pluto.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://spade-z-pluto.github.io/categories/MoonBit/</loc>
     <lastmod>2025-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
